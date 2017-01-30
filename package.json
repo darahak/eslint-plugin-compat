@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.22.0",
-    "browserslist": "^1.7.0",
+    "browserslist": "^1.7.1",
     "caniuse-db": "1.0.30000617",
     "requireindex": "^1.1.0"
   },
